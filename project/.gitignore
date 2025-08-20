@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+
+# Expo & React Native
+.expo/
+dist/
+web-build/
+*.tsbuildinfo
+expo-env.d.ts
+
+# macOS & system files
+.DS_Store
+*.pem
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Android/iOS build files
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Environment variables (frontend and backend)
+.env
+**/.env
+.env*.local
+
+#Backend Data
+backend/data/
