@@ -6,7 +6,8 @@
 ---
 
 ## 🎬Watch Demo
-https://youtu.be/C4v-a-K5KUw?si=YdQafFEucCW2PltG
+[![Watch Demo](system_architecture.png)](https://youtu.be/C4v-a-K5KUw?si=YdQafFEucCW2PltG
+)
 
 ---
 
