@@ -14,6 +14,7 @@ https://youtu.be/C4v-a-K5KUw?si=YdQafFEucCW2PltG
 
 - **One-Tap Crime Reporting**: Quickly report various types of crimes
 - **Nearest Police Station Locator**: Automatically find the closest police station
+- **Location-based Top 3 Crimes**: Automatically identify and display user location's top three crimes 
 - **Report History**: View and track all your past crime reports
 - **User Authentication**: Secure signup and login system
 - **Profile Management**: Update personal information and preferences
